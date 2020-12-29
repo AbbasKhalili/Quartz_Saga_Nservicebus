@@ -1,0 +1,48 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.40203.910",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "https://www.zarinpal.com/pg/services/WebGate/wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ZarinPal"
+    ],
+    "references": [
+      "Microsoft.AspNetCore.Diagnostics.HealthChecks, {Microsoft.AspNetCore.Diagnostics.HealthChecks, 2.2.0}",
+      "Microsoft.AspNetCore.Http.Abstractions, {Microsoft.AspNetCore.Http.Abstractions, 2.2.0}",
+      "Microsoft.AspNetCore.Http.Features, {Microsoft.AspNetCore.Http.Features, 2.2.0}",
+      "Microsoft.Extensions.Configuration.Abstractions, {Microsoft.Extensions.Configuration.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Diagnostics.HealthChecks, {Microsoft.Extensions.Diagnostics.HealthChecks, 2.2.0}",
+      "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions, {Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.FileProviders.Abstractions, {Microsoft.Extensions.FileProviders.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Hosting.Abstractions, {Microsoft.Extensions.Hosting.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 2.2.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 2.2.0}",
+      "Microsoft.Net.Http.Headers, {Microsoft.Net.Http.Headers, 2.2.0}",
+      "Quartz, {Quartz, 3.2.3}",
+      "Quartz.AspNetCore, {Quartz.AspNetCore, 3.2.3}",
+      "Quartz.Extensions.DependencyInjection, {Quartz.Extensions.DependencyInjection, 3.2.3}",
+      "Quartz.Extensions.Hosting, {Quartz.Extensions.Hosting, 3.2.3}",
+      "System.Configuration.ConfigurationManager, {System.Configuration.ConfigurationManager, 4.7.0}",
+      "System.Diagnostics.DiagnosticSource, {System.Diagnostics.DiagnosticSource, 4.7.1}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.5.1}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 4.7.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 4.7.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.7.0}",
+      "System.Text.Encodings.Web, {System.Text.Encodings.Web, 4.5.0}",
+      "System.Windows.Extensions, {System.Windows.Extensions, 4.7.0}"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}

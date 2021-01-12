@@ -20,6 +20,7 @@ namespace WebAppPay
     //    }
     //}
 
+
     public class OrderSaga : //Saga<OrderSagaData>,
         IHandleMessages<ResultMessage>
     {
